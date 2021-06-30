@@ -1,0 +1,14 @@
+ var quadrado = "Medidas de um Quadrado";
+  
+  int laterald = 15;
+  int laterale = 15;
+  int basebaixo = 15;
+  int basecima = 15;
+  
+  print("$quadrado\n");
+  print("Lateral esquerda: $laterale cm");
+  print("Lateral direita: $laterald cm");
+  print("Base de baixo: $basebaixo cm");
+  print("Base de cima: $basecima cm\n");
+  
+  print("Área total do quadrado: ${laterale * laterald} cm²");

@@ -1,0 +1,16 @@
+void main() {
+  
+ int basemaior = 30;
+ int basemenor = 15;
+ int altura = 20;
+ int dividido =2;
+  
+  print("base maior $basemaior");
+  print("base menor $basemenor");
+  print("altura $altura");
+  
+  print("O valor do trapézio será de ${basemaior + basemenor *altura/dividido}");
+  
+  
+  
+}

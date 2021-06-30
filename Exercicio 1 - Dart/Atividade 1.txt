@@ -1,0 +1,18 @@
+void main() {
+  
+ var nome = "Mateus ";
+  var sobrenome = "Reisdorfer";
+  var idade = 18;
+  var rua = "Julio de castilos";
+  var bairro = "Vila Aparecida";
+  var cidade = "Portão";  
+  var endereconumero = 771;
+  
+  print("Nome:$nome");
+  print("Sobrenome:$sobrenome");
+  print("IDADE:$idade");
+  print("Rua:$rua");
+  print("Bairro:$bairro");
+  print("Cidade:$cidade");
+  print("Nº:$endereconumero");
+  

@@ -1,0 +1,12 @@
+void main() {
+  
+ var ingresso = 14;
+ var pessoas = 4;
+ var filme = "De volta para o futuro";
+  
+  print("Filme: $filme");
+  print("Valor de cada ingresso: $ingresso");
+  print("Número de pessoas:  $pessoas");
+  print("Valor Final:  ${pessoas * ingresso}");
+  
+}

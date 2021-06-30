@@ -1,0 +1,17 @@
+void main() {
+  
+ 
+  var titulo1 = "Comparação ";
+  var name1 = "Mateus";
+  var name2 = "João";
+  
+  print("$titulo1");
+  if (name1 == name2){
+    print("É a mesma pessoa!");
+   } else if (name1 != name2){
+    print("Não é  a mesma pessoa!");
+   }
+  
+  
+  
+}
